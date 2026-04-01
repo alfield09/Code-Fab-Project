@@ -23,3 +23,4 @@ void loop() {
   myServo.write(90); 
   delay(1000); 
 }
+// Look into adding an LED to turn on when servo is On/Moving
