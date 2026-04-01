@@ -3,7 +3,7 @@
 Servo myServo;  // create servo object
 
 void setup() {
-  myServo.attach(9);  // attach servo to pin 9
+  myServo.attach(9);
 }
 
 void loop() {
@@ -24,3 +24,4 @@ void loop() {
   delay(1000); 
 }
 // Look into adding an LED to turn on when servo is On/Moving
+//less comments
